@@ -1,6 +1,16 @@
-h1 {
-    color: red;
-    background-color: black;
-    text-align: center;
-    padding: 50px;
+body {
+	background-color: #111111;
+	background-attachment: fixed;
+	margin: auto;
+	width: 1080px;
+	color: white;
+}
+
+p {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  overflow-wrap:break-word;
+  hyphens: auto;
 }
